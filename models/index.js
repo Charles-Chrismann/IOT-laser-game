@@ -14,14 +14,11 @@ const sequelize = new Sequelize(process.env.DB_DATABASE, process.env.DB_USERNAME
 fs.readdirSync(__dirname)
 .filter(file => (file.indexOf('.') !== 0) && (file !== basename) && (file.slice(-3) === '.js'))
 .forEach(file => {
-  console.log('mskn')
   const model = require(path.join(__dirname, file))(sequelize, Sequelize.DataTypes);
-  console.log("aa", model.name)
   db[model.name] = model
 })
 
 db.sequelize = sequelize
 // db.Sequelize = Sequelize
 
-console.log("db", db)
 module.exports = db;

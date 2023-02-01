@@ -1,7 +1,0 @@
-const { Sequelize, DataTypes, Model } = require('sequelize');
-
-class Game extends Model {}
-
-Game.init({
-  
-})
