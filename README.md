@@ -8,12 +8,12 @@ The video of the working result can be found here: https://youtube.com/shorts/CR
 
 The gun:
 
-![The schema of the gun](https://github.com/Charles-Chrismann/IOT-laser-game/blob/dev/assets/gun%20schema.jpg)
+![The schema of the gun](https://github.com/Charles-Chrismann/IOT-laser-game/blob/main/assets/gun%20schema.jpg)
 
-![The gun](https://github.com/Charles-Chrismann/IOT-laser-game/blob/dev/assets/circuit.jpg)
+![The gun](https://github.com/Charles-Chrismann/IOT-laser-game/blob/main/assets/circuit.jpg)
 
 The target:
 
-![The schema of the target](https://github.com/Charles-Chrismann/IOT-laser-game/blob/dev/assets/recepteur-schema.jpg)
+![The schema of the target](https://github.com/Charles-Chrismann/IOT-laser-game/blob/main/assets/recepteur-schema.jpg)
 
-![The target](https://github.com/Charles-Chrismann/IOT-laser-game/blob/dev/assets/recepteur.jpg)
+![The target](https://github.com/Charles-Chrismann/IOT-laser-game/blob/main/assets/recepteur.jpg)
